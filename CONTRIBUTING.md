@@ -1,4 +1,4 @@
-# GDSC-JSCOE-Competitive-Programming-2022
+# HBTU-Data-Structure-In-Python
 ## How to contribute?
     
     Step 1 : Fork the project repository
